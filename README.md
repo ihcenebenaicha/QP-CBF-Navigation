@@ -1,6 +1,6 @@
-# Custom CBF-based Robot Navigation
+# CBF-based Robot Navigation
 
-This project implements a **custom Control Barrier Function (CBF) approach** for autonomous robot navigation in environments with obstacles. The algorithm is developed from scratch and provides real-time safe navigation for mobile robots using ROS 2.
+This project implements a **Control Barrier Function (CBF) approach** for autonomous robot navigation in environments with obstacles. The algorithm is developed from scratch and provides real-time safe navigation for mobile robots using ROS 2.
 
 ---
 
