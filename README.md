@@ -17,8 +17,9 @@ This project implements a **custom Control Barrier Function (CBF) approach** for
 
 ## Requirements
 
-- Python 3.10+
-- ROS 2 Humble (or later)
+- Python
+- ROS 2 Humble
 - Libraries:
   ```bash
   pip install numpy sympy scipy matplotlib cvxpy
+  
